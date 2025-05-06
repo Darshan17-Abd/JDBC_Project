@@ -7,7 +7,7 @@ public class Program1{
 		System.out.println("Enter the value of n:");
 		int n = sc.nextInt();
 		System.out.println("The square of"+n+"is:"(n*n));
-		
+		System.out.println("Checking the program");
 		
 	}
 }
